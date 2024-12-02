@@ -1,6 +1,6 @@
-# TryHackMe Advent of Code 2024
+# TryHackMe Advent of Cyber 2024
 
-This repository contains screenshots of the solutions for the TryHackMe Advent of Code 2024 challenges. Each file is labeled according to the day of the challenge.
+This repository contains screenshots of the solutions for the TryHackMe Advent of Cyber 2024 challenges. Each file is labeled according to the day of the challenge.
 
 ## Contents
 
@@ -17,5 +17,5 @@ To view the solutions, simply open the corresponding `.png` file for the day you
 
 ## Acknowledgements
 
-- [TryHackMe](https://tryhackme.com) for providing the Advent of Code challenges.
-- The Advent of Code community for their support and collaboration.
+- [TryHackMe](https://tryhackme.com) for providing the Advent of Cyber challenges.
+- The Advent of Cyber community for their support and collaboration.
