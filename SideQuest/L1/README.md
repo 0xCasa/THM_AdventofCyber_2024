@@ -21,7 +21,7 @@
 - Unzipped the reassembled file and found it to need a password:
     ```[reassembled_file.zip] elves.sql password:```
 - Parsed the pcap http.request.method == "POST" && http.file_data contains "password"
-  Q1 username= "frostyfox" Form item: "password" = "QU9DMjAyNHtUaW55X1R"
-  Q2 username= "mcskidy" Form item: "password" = "pbnlfVGlueV9TaDNsbF"
+  - Q1 username= "frostyfox" Form item: "password" = "QU9DMjAyNHtUaW55X1R"
+  - Q2 username= "mcskidy" Form item: "password" = "pbnlfVGlueV9TaDNsbF"
 
   
