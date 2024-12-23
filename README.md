@@ -9,7 +9,7 @@ This repository contains screenshots of the solutions for the TryHackMe Advent o
 - `THMday03.png` - Solution for Day 3
 - `THMday04.png` - Solution for Day 4
 - `THMday05.png` - Solution for Day 5
-- ect....
+- etc....
 
 ## Usage
 
